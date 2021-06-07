@@ -1,0 +1,6 @@
+{
+    "require": {
+        "illuminate/database": "^8.45",
+        "composer/composer": "^2.1"
+    }
+}

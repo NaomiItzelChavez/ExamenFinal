@@ -1,0 +1,62 @@
+.nav-wrapper{
+    background-color: #749fb3;
+    font-family: sans-serif; 
+}
+.body {
+    font-family: sans-serif; 
+    text-align:center;
+}
+.fondito{
+    background-color:rgb(232, 212, 250);
+}
+
+.logo{
+    font-size: 25px;
+    color: black;
+}
+.sec{
+    text-align: right;
+}
+    
+#calculadora { 
+    font: bold 14px Arial,sans-serif; 
+    background-color: #749fb3;  
+    border-radius: 8px; 
+    height: auto; 
+    margin: 60px auto;
+    padding: 20px 30px 9px; 
+    width: 285px;
+}
+.parteSuperior .pantalla { 
+    background-color: rgba(0, 0, 0, 0.2); 
+    border-radius: 3px; 
+    color: #FFFFFF; 
+    float: right; 
+    font-size: 15px; 
+    height: 30px; 
+    letter-spacing: 1px; 
+    line-height: 20px; 
+    padding: 0 10px; 
+    text-align: right; 
+    width: 180px;
+}
+.teclas, .parteSuperior {
+    overflow: hidden; 
+}
+    
+.teclas span, .parteSuperior span.limpiar {     
+    background-color: #FFFFFF; 
+    border-radius: 3px; 
+    color: #a02c2c; 
+    cursor: pointer;
+    float: left; 
+    height: 40px; 
+    line-height: 40px; 
+    margin: 0 8px 10px 0; 
+    text-align: center; 
+    transition: all 0.4s ease 0s; 
+    width: 66px;
+}
+    
+
+    
